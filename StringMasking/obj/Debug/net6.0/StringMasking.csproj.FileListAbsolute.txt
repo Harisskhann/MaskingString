@@ -1,0 +1,15 @@
+D:\MaskingString\MaskingString\StringMasking\bin\Debug\net6.0\StringMasking.exe
+D:\MaskingString\MaskingString\StringMasking\bin\Debug\net6.0\StringMasking.deps.json
+D:\MaskingString\MaskingString\StringMasking\bin\Debug\net6.0\StringMasking.runtimeconfig.json
+D:\MaskingString\MaskingString\StringMasking\bin\Debug\net6.0\StringMasking.dll
+D:\MaskingString\MaskingString\StringMasking\bin\Debug\net6.0\StringMasking.pdb
+D:\MaskingString\MaskingString\StringMasking\obj\Debug\net6.0\StringMasking.csproj.AssemblyReference.cache
+D:\MaskingString\MaskingString\StringMasking\obj\Debug\net6.0\StringMasking.GeneratedMSBuildEditorConfig.editorconfig
+D:\MaskingString\MaskingString\StringMasking\obj\Debug\net6.0\StringMasking.AssemblyInfoInputs.cache
+D:\MaskingString\MaskingString\StringMasking\obj\Debug\net6.0\StringMasking.AssemblyInfo.cs
+D:\MaskingString\MaskingString\StringMasking\obj\Debug\net6.0\StringMasking.csproj.CoreCompileInputs.cache
+D:\MaskingString\MaskingString\StringMasking\obj\Debug\net6.0\StringMasking.dll
+D:\MaskingString\MaskingString\StringMasking\obj\Debug\net6.0\refint\StringMasking.dll
+D:\MaskingString\MaskingString\StringMasking\obj\Debug\net6.0\StringMasking.pdb
+D:\MaskingString\MaskingString\StringMasking\obj\Debug\net6.0\StringMasking.genruntimeconfig.cache
+D:\MaskingString\MaskingString\StringMasking\obj\Debug\net6.0\ref\StringMasking.dll
